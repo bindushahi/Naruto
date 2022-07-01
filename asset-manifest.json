@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.a48908f8.css",
-    "main.js": "/react-gh-pages/static/js/main.1d6dfc37.js",
-    "static/media/picc.jpg": "/react-gh-pages/static/media/picc.da22f21cc152d641ba7f.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.a48908f8.css.map": "/react-gh-pages/static/css/main.a48908f8.css.map",
-    "main.1d6dfc37.js.map": "/react-gh-pages/static/js/main.1d6dfc37.js.map"
+    "main.css": "/Naruto/static/css/main.e57e5812.css",
+    "main.js": "/Naruto/static/js/main.1d6dfc37.js",
+    "static/media/picc.jpg": "/Naruto/static/media/picc.da22f21cc152d641ba7f.jpg",
+    "index.html": "/Naruto/index.html",
+    "main.e57e5812.css.map": "/Naruto/static/css/main.e57e5812.css.map",
+    "main.1d6dfc37.js.map": "/Naruto/static/js/main.1d6dfc37.js.map"
   },
   "entrypoints": [
-    "static/css/main.a48908f8.css",
+    "static/css/main.e57e5812.css",
     "static/js/main.1d6dfc37.js"
   ]
 }
